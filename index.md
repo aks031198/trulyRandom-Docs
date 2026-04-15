@@ -13,11 +13,8 @@ TrulyRandom is an iOS app for generating random numbers, flipping coins, rolling
 - [Privacy Policy](privacy-policy.html)
 - [Support Policy](support-policy.html)
 
-## Before Publishing
+## Contact
 
-Replace the placeholders in the policy pages with your actual:
-
-- developer or business name
-- support email
-- support URL
-- effective date
+- Developer: Ayush Kumar Sinha
+- Email: ayush031198@gmail.com
+- Support URL: https://aks031198.github.io/trulyRandom-Docs/

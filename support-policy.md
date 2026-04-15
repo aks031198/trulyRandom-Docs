@@ -4,25 +4,19 @@ title: TrulyRandom Support Policy
 
 # TrulyRandom Support Policy
 
-Effective Date: [Month Day, Year]
+Effective Date: April 15, 2026
 
 This Support Policy describes the support offered for TrulyRandom.
-
-Before release, replace the placeholders below:
-
-- Developer / Company Name: [YOUR NAME OR BUSINESS NAME]
-- Support Email: [YOUR SUPPORT EMAIL]
-- Support URL: [YOUR SUPPORT URL, IF ANY]
 
 ## Contact
 
 Support requests can be sent to:
 
-[YOUR SUPPORT EMAIL]
+ayush031198@gmail.com
 
 If you also maintain a support page, you can publish:
 
-[YOUR SUPPORT URL]
+https://aks031198.github.io/trulyRandom-Docs/
 
 ## Support Scope
 
@@ -85,6 +79,6 @@ This Support Policy may be updated from time to time. The latest version should 
 
 ## Contact
 
-[YOUR NAME OR BUSINESS NAME]  
-[YOUR SUPPORT EMAIL]  
-[YOUR SUPPORT URL OR MAILING ADDRESS, IF APPLICABLE]
+Ayush Kumar Sinha  
+ayush031198@gmail.com  
+https://aks031198.github.io/trulyRandom-Docs/

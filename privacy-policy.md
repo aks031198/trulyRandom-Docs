@@ -4,15 +4,9 @@ title: TrulyRandom Privacy Policy
 
 # TrulyRandom Privacy Policy
 
-Effective Date: [Month Day, Year]
+Effective Date: April 15, 2026
 
 This Privacy Policy explains how TrulyRandom ("the App") handles information when you use it.
-
-If you publish the App under a personal or business name, replace the placeholders below before release:
-
-- Developer / Company Name: [YOUR NAME OR BUSINESS NAME]
-- Support Email: [YOUR SUPPORT EMAIL]
-- Support URL: [YOUR SUPPORT URL, IF ANY]
 
 ## Summary
 
@@ -83,6 +77,6 @@ This Privacy Policy may be updated from time to time. If it changes, the updated
 
 If you have questions about this Privacy Policy, contact:
 
-[YOUR NAME OR BUSINESS NAME]  
-[YOUR SUPPORT EMAIL]  
-[YOUR SUPPORT URL OR MAILING ADDRESS, IF APPLICABLE]
+Ayush Kumar Sinha  
+ayush031198@gmail.com  
+https://aks031198.github.io/trulyRandom-Docs/
