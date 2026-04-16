@@ -4,7 +4,7 @@ title: TrulyRandom Privacy Policy
 
 # TrulyRandom Privacy Policy
 
-Effective Date: April 15, 2026
+Effective Date: April 16, 2026
 
 This Privacy Policy explains how TrulyRandom ("the App") handles information when you use it.
 
@@ -12,9 +12,11 @@ This Privacy Policy explains how TrulyRandom ("the App") handles information whe
 
 TrulyRandom is designed to work primarily on your device. The App does not require account creation and does not use analytics, advertising SDKs, or third-party tracking inside the App.
 
-## Information We Collect
+## Information We Collect in the App
 
-TrulyRandom does not collect personal information for analytics, advertising, profiling, or tracking through the App itself.
+TrulyRandom does not collect personal information through the App for analytics, advertising, profiling, or cross-app tracking.
+
+The App does not require you to create an account or sign in.
 
 ## Information Stored on Your Device
 
@@ -29,15 +31,42 @@ To make the App work as expected, TrulyRandom stores certain data locally on you
 
 This local data is used only to provide the App’s features and remember your choices.
 
+## Widgets and Shared App Data
+
+TrulyRandom includes widgets that use app-group storage so the main app and widgets can access the same local state when needed.
+
+This can include locally stored values such as:
+
+- widget settings
+- the latest displayed widget result
+- Premium access state
+- daily free-tier usage counters
+
+This shared data remains on your device and is not used by TrulyRandom for advertising or tracking.
+
 ## Premium Purchases
 
 TrulyRandom offers a one-time Premium unlock through Apple’s in-app purchase system. Purchase processing, billing, and transaction handling are provided by Apple. TrulyRandom does not collect or store your payment card details.
 
-The App may store a local record showing whether Premium is unlocked so that Premium features can be enabled on your device.
+The App may store a local record showing whether Premium is unlocked so that Premium features can be enabled on your device and restored appropriately.
+
+Apple may also maintain purchase and transaction records under Apple’s own terms, policies, and App Store systems.
 
 ## Sound and On-Device Processing
 
 The App can play sound effects for features such as dice rolls, coin tosses, and wheel spins. These sound effects are generated and played locally on your device.
+
+## Support Messages
+
+If you contact support, you may voluntarily provide information such as your email address and the contents of your message.
+
+That information is used only to:
+
+- respond to you
+- troubleshoot your issue
+- maintain reasonable support records
+
+Support emails are not used for advertising or sold to third parties.
 
 ## Data Sharing
 
@@ -53,6 +82,8 @@ Because most App data is stored locally on your device, it generally remains the
 
 Purchase records may continue to be maintained by Apple as part of your App Store purchase history.
 
+If you contact support by email, your message and contact details may be retained for as long as reasonably necessary to respond, troubleshoot, maintain support history, or comply with legal obligations.
+
 ## Your Choices
 
 You can:
@@ -60,10 +91,7 @@ You can:
 - delete saved lists and other in-app content directly inside the App
 - remove the App from your device to remove locally stored App data, subject to normal device behavior
 - use Apple’s restore purchase flow if you previously bought the one-time Premium unlock
-
-## Support Messages
-
-If you contact support, you may voluntarily provide information such as your email address and the contents of your message. That information will be used only to respond to you, troubleshoot your issue, and maintain basic support records.
+- contact support if you have questions about privacy or want help understanding what data is stored locally
 
 ## Children’s Privacy
 

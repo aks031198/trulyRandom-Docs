@@ -4,7 +4,7 @@ title: TrulyRandom Support Policy
 
 # TrulyRandom Support Policy
 
-Effective Date: April 15, 2026
+Effective Date: April 16, 2026
 
 This Support Policy describes the support offered for TrulyRandom.
 
@@ -26,6 +26,7 @@ Support is intended for:
 - troubleshooting crashes, bugs, or unexpected results
 - assistance with restoring the one-time Premium unlock
 - questions about the App’s free tier, Premium access, widgets, and limits
+- questions about the App’s privacy policy, support resources, or purchase flow
 
 ## Response Goal
 
@@ -40,6 +41,12 @@ TrulyRandom Premium is a one-time unlock sold through Apple’s App Store.
 If you purchased Premium and it does not appear to be active, first try the App’s restore purchase option.
 
 Refunds, billing disputes, and payment issues are generally handled by Apple through the App Store. If you need a refund, you should use Apple’s refund request process.
+
+## License Terms
+
+Unless a different custom license agreement is shown on the App Store product page for TrulyRandom, use of the App is governed by Apple’s standard Licensed Application End User License Agreement (EULA).
+
+This site may also provide a general Terms of Use page for convenience, but Apple’s applicable App Store terms and the active license agreement remain important parts of your use of the App.
 
 ## Local Data and Backups
 
@@ -72,6 +79,14 @@ Please do not send payment card numbers, passwords, or other sensitive informati
 ## Feature Requests
 
 Feature requests and product suggestions are welcome, but submission of an idea does not guarantee that it will be added to the App.
+
+## What Support Cannot Do
+
+Support generally cannot:
+
+- directly issue App Store refunds
+- access or recover local data that no longer exists on your device or backups
+- change Apple account, billing, or payment records
 
 ## Changes to This Policy
 
